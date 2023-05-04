@@ -1,0 +1,13 @@
+.button {
+  text-align: center;
+  color: #04134e;
+  
+}
+
+.button button {
+  display: block;
+  margin: auto;
+  /* box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 6px; */
+  height: 50%;
+  width: 30%;
+}

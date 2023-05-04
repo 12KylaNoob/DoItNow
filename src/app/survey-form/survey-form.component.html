@@ -1,0 +1,13 @@
+<div>
+    <h1>Procrastination Test</h1>
+    <div *ngFor="let prompt of prompts">
+        <h5>{{ prompt.prompt }}</h5>
+        <div (click)="userChoice($event)" >
+            <button class="btn-default btn-strongly-agree">Strongly Agree</button>
+            <button>Agree</button>
+            <button>Neutral</button>
+            <button>Disagree</button>
+            <button>Stronly Disagree</button>
+        </div>
+    </div>
+</div>

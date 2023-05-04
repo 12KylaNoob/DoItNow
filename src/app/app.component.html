@@ -1,0 +1,37 @@
+<nav class="navbar bg-body-tertiary">
+  <div class="container-fluid">
+    <img class="navbar-brand" href="#" src="https://github.com/12KylaNoob/DoItNow/blob/main/DoItNow.png?raw=true" />
+  </div>
+</nav>
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <img [src]="intro" class="card-img-top" alt="Cellphone" />
+    </div>
+    <div class="col content">
+      Are you struggling with putting off important tasks in favor of mindlessly
+      scrolling through your phone or engaging in less important activities?
+      Procrastination can be a frustrating habit that leads to stress, missed
+      deadlines, and a sense of dissatisfaction with the results of our efforts.
+      But why do we procrastinate, and how can we break this cycle? Let’s
+      explore the science behind procrastination, the ways it affects our lives,
+      and most importantly, how to overcome it. Take our procrastination test to
+      assess your tendencies and begin your journey towards greater productivity
+      and fulfillment.
+    </div>
+  </div>
+</div>
+
+<mat-tab-group mat-stretch-tabs dynamicHeight animationDuration="1500ms">
+  <mat-tab label="Let’s define Procrastination">
+    <app-define></app-define>
+  </mat-tab>
+  <mat-tab label="Why do it Later?"> <app-cause></app-cause> </mat-tab>
+  <mat-tab label="Understanding Procrastination">
+    <app-survey></app-survey>
+  </mat-tab>
+  <mat-tab label="Do it Now!"> <app-ways></app-ways> </mat-tab>
+</mat-tab-group>
+
+<app-footer></app-footer>

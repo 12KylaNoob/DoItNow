@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Strongly Agree",
+    "class": "btn-default btn-strongly-agree",
+    "weight": 4
+  },
+  {
+    "value": "Agree",
+    "class": "btn-default btn-agree",
+    "weight": 3
+  },
+  {
+    "value": "Neutral",
+    "class": "btn-default",
+    "weight": 2
+  },
+  {
+    "value": "Disagree",
+    "class": "btn-default btn-disagree",
+    "weight": 1
+  },
+  {
+    "value": "Strongly Disagree",
+    "class": "btn-default btn-strongly-disagree",
+    "weight": 0
+  }
+]

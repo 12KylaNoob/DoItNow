@@ -1,0 +1,60 @@
+.navbar-brand {
+    width: 20%;
+}
+
+.card-img-top {
+    height: 75%;
+    width: auto;
+    margin: auto;
+}
+
+content {
+    margin: auto;
+}
+
+.container {
+    padding: 5%;
+    background-color: white;
+    height: 100%;
+}
+
+mat-tab-group {
+    background: radial-gradient(circle at 80% 90%,
+            #4ba78e 15%,
+            #2253af 30%,
+            #04134e 80%);
+    color: white;
+}
+
+.mat-tab-group {
+    margin: 10px;
+}
+
+.mat-tab-label-active {
+    width: 50px;
+    background: silver;
+    color: darkblue;
+    font-weight: bold;
+    border-top-right-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    opacity: 1 !important;
+    text-align: center;
+    animation: none;
+}
+
+.mat-tab-label {
+    text-align: center;
+    width: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: silver;
+    color: darkblue;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+p {
+    font-family: Lato;
+}

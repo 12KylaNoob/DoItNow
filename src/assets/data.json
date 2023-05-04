@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "I generally delay before starting on work I have to do",
+    "weight": 1,
+    "class": "group0"
+  },
+  {
+    "prompt": "I often waste time by doing other things",
+    "weight": 1,
+    "class": "group1"
+  },
+  {
+    "prompt": "In preparing for some deadline,I usually browse on the internet first",
+    "weight": 1,
+    "class": "group2"
+  },
+  {
+    "prompt": "I am continually saying I'll do it tommorow",
+    "weight": 1,
+    "class": "group3"
+  },
+  {
+    "prompt": "I dont usually accomplish all the things I plan to do in a day",
+    "weight": 1,
+    "class": "group4"
+  },
+  {
+    "prompt": "I dont like it when I do the task the day it was given",
+    "weight": 1,
+    "class": "group5"
+  },
+  {
+    "prompt": "I do my task when the deadline is few hours away",
+    "weight": 1,
+    "class": "group6"
+  },
+  {
+    "prompt": "I usually have to rush to complete a task on time",
+    "weight": 1,
+    "class": "group7"
+  },
+  {
+    "prompt": "I am passing my assignment even it is already due date",
+    "weight": 1,
+    "class": "group8"
+  },
+  {
+    "prompt": "I am easily distracted when im doing my work",
+    "weight": 1,
+    "class": "group9"
+  }
+]
